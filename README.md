@@ -11,7 +11,7 @@
 ## Want to contribute?
 
 * If you want to help us improve, take a minute to read the [Contribution Guidelines](/CONTRIBUTING.md) first. (Under Contruction)
-** If you find a problem with any piece of code, please [open an issue](https://github.com/30-seconds/steady-stack/issues/new). (Under Contruction)
+* If you find a problem with any piece of code, please [open an issue](https://github.com/30-seconds/steady-stack/issues/new). (Under Contruction)
 
 
 ## Credits
