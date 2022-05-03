@@ -1,4 +1,4 @@
-[![Logo](/logo.png)](insert logo link here)
+![Logo](brand-and-design/logo-resources/logo.png)
 
 # Steady Stack
 
